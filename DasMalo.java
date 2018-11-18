@@ -1,9 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file,#######################   Solo DasuMalo       ################ choose Tools | Templates
- * and open the template in the editor. System.out.println("\n");
+#######################   Solo DasuMalo       ################ 
  */
-package perreo;
+package DausMalo;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
